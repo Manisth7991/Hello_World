@@ -1,2 +1,2 @@
 # Hello_World
-new repository
+new repository of git
